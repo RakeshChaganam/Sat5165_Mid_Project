@@ -87,7 +87,7 @@ print("Preprocessing finished. Saved to:", out_parquet)
 import time
 time.sleep(2)
 
-print("\n🔹 Performing Correlation Analysis...")
+print("\n Performing Correlation Analysis...")
 
 pollutant_cols = [
     "CO_GT_",
